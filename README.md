@@ -1,1 +1,2 @@
-# react-fundementals
+# React Fundementals
+@tylermcginnis
